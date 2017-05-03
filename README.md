@@ -1,6 +1,4 @@
-Python
+Learning Python
 ======
 
-Learning python
-
-Learning GIT
+[Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya)
